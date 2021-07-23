@@ -1,4 +1,4 @@
-# kakaopaySecurities 사전과제 - 지점 마케팅 API 개발
+# kakaopaySecurities - 지점 마케팅 API 개발
 ## 목차
 - [개발 환경](#개발-환경)
 - [빌드 및 실행하기](#빌드-및-실행하기)
